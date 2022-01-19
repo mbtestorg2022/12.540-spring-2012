@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Social Science",
+      "Geography"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Surveying"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "legacy_uid": "efe6b992-74bf-2e54-d590-e9662cde9cd3",
+  "instructors": {
+    "content": [
+      "6ef38acf-e916-092e-c56b-2cebac96b084"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6f252901-a544-6915-cece-7898666eb207",
+    "website": "12-540-principles-of-the-global-positioning-system-spring-2012"
+  },
+  "course_title": "Principles of the Global Positioning System",
+  "course_description": "The aim of this course is to introduce the principles of the Global Positioning System and to demonstrate its application to various aspects of Earth Sciences. The specific content of the course depends each year on the interests of the students in the class. In some cases, the class interests are towards the geophysical applications of GPS and we concentrate on high precision (millimeter level) positioning on regional and global scales. In other cases, the interests have been more toward engineering applications of kinematic positioning with GPS in which case the concentration is on positioning with slightly less accuracy but being able to do so for a moving object. In all cases, we concentrate on the fundamental issues so that students should gain an understanding of the basic limitations of the system and how to extend its application to areas not yet fully explored.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.540",
+  "course_image_thumbnail": {
+    "content": "cdb772c3-ec82-2fdd-898d-529ce208f002",
+    "website": "12-540-principles-of-the-global-positioning-system-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "be21558e-4db0-4289-b54b-b433fe7b48ee",
+  "title": "Course Metadata"
+}
