@@ -77,7 +77,7 @@ Coordinate types ([PDF - 1.7MB]({{< baseurl >}}/resources/mit12_540s12_lec4))
 {{< tdopen >}}
 Coordinate systems, rotation of the Earth, Geoid, Spherical trigonometry  
 [International Earth Rotation and Reference Systems Service](http://www.iers.org/)  
-Modeling of Nutation-Precession: Very long baseline interferometry results (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf))  
+Modeling of Nutation-Precession: Very long baseline interferometry results ([PDF](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf))  
 [Computation of Geoid99 Geoid Height](http://www.ngs.noaa.gov/cgi-bin/GEOID_STUFF/geoid99_prompt1.prl)  
 [Spherical Trigonometry](http://mathworld.wolfram.com/SphericalTrigonometry.html)
 {{< tdclose >}}
@@ -92,8 +92,8 @@ GPS satellite orbits ([PDF]({{< baseurl >}}/resources/mit12_540s12_lec5))
 {{< tdclose >}}
 {{< tdopen >}}
 GPS satellite orbits. The MATLAB program to compute eccentic and true anomalies is truea.m ([M]({{< baseurl >}}/resources/truea))  
-The GPS interface control document (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf))  
-Unclassified (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
+The GPS interface control document ([PDF](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf))  
+Unclassified ([PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +235,7 @@ Propagation medium: neutral atmosphere ([PDF]({{< baseurl >}}/resources/mit12_54
 {{< tdopen >}}
 Tropospheric delay estimation  
 [The Height of the Tropopause](http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html)  
-Effects of the Troposheric Mapping Function on Space Geodetic Data (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://gauss.gge.unb.ca/papers.pdf/igs97tropo.pdf))  
+Effects of the Troposheric Mapping Function on Space Geodetic Data ([PDF - 1.0MB](http://gauss.gge.unb.ca/papers.pdf/igs97tropo.pdf))  
 [Index of /DELAY](http://ggosatm.hg.tuwien.ac.at/DELAY/)
 {{< tdclose >}}
 

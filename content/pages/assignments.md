@@ -36,7 +36,7 @@ HW01\_2012.m ([M]({{< baseurl >}}/resources/hw01_2012))
 {{< tdopen >}}
 
 
-The broadcast ephemeris file to use is mit0090s.10n ([TXT]({{< baseurl >}}/resources/mit0090s)) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ([TXT]({{< baseurl >}}/resources/mit00900)). The GPS interface control document icd200cw1234.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf)) will be useful for this homework. The sub-section of ICD2000 that discusses the broadcast ephemeris is icd200cw1234.Nav.pdf (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
+The broadcast ephemeris file to use is mit0090s.10n ([TXT]({{< baseurl >}}/resources/mit0090s)) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ([TXT]({{< baseurl >}}/resources/mit00900)). The GPS interface control document icd200cw1234.pdf ([PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf)) will be useful for this homework. The sub-section of ICD2000 that discusses the broadcast ephemeris is icd200cw1234.Nav.pdf ([PDF - 1.3MB](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.Nav.pdf))
 
 Rinex Definition  
 ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt ([TXT](./resolveuid/102743cfd6f15a1d208bb4a924f7c134))
